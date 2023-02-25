@@ -6,7 +6,7 @@ This project aims to create a Jenkins pipeline to deploy web-page written Nodejs
 
 ## Project Details
 
-![image](Jenkins_Project.png)
+![jenkins](https://user-images.githubusercontent.com/114299019/221368009-389f4ea5-fe84-4677-8a74-d2e76eadcf3d.png)
 
 - Web-page allows users to collect their infos. Registration data should be kept in separate PostgreSQL database located in one of EC2s. Nodejs framework controls backend and serves on port 5000, it is also connected to the PostgreSQL database on port 5432. React framework controls the frontend and it is also connected to the Nodejs server on port 5000. React server broadcasts web-page on port 3000.
 
@@ -127,7 +127,7 @@ This project provides a straightforward and automated solution for deploying a w
 
 ## Expected Outcome
 ### APP IS WORKING , HERE IS THE FRONTEND WHICH CAN BE ACCESSED FROM THE PORT 3000
-
+![todos_last](https://user-images.githubusercontent.com/114299019/221368082-9b109d09-3c4b-425e-9e73-834cb357827f.PNG)
 
 
 #
